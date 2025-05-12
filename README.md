@@ -22,7 +22,7 @@ Developed SQL queries to extract and process sales data from sales, store, produ
 <b>Performance Analysis:</b><br>
 Analyzed sales data by store and product category, identifying top-performing products and underperforming categories.
 
->b>Revenue & Trend Reporting:</b><br>
+<b>Revenue & Trend Reporting:</b><br>
 Calculated total revenue, monthly sales trends, and seasonal performance.
 
 <b>Sales Forecasting:</b><br>
