@@ -1,14 +1,15 @@
-📊 Project Title: Walmart Sales Analysis Using MS SQL Server
+<b>📊 Project Title: </b><br>
+<b>Walmart Sales Analysis Using MS SQL Server</b>
 
-🛠️ Tools & Technologies:
+<b>🛠️ Tools & Technologies:</b><br>
 
-MS SQL Server
+<li>MS SQL Server</li>
 
-SQL Queries
+<li>SQL Queries</li>
 
-Tables: sales, store, product, category
+<li>Tables: sales, store, product, category</li>
 
-🎯 Objective:
+<b>🎯 Objective:</b><br>
 To analyze Walmart's sales data, focusing on store performance, product categories, and revenue trends, enabling data-driven business decisions.
 
 <b>🔍 Key Tasks:<b>
