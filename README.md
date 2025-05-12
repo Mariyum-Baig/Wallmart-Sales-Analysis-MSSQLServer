@@ -16,19 +16,19 @@ To analyze Walmart's sales data, focusing on store performance, product categori
 
 <b>🔍 Key Tasks:</b>
 
-<b>Data Extraction & Transformation:</b>
+<b>Data Extraction & Transformation:</b><br>
 Developed SQL queries to extract and process sales data from sales, store, product, and category tables.
 
-<b>Performance Analysis:</b>
+<b>Performance Analysis:</b><br>
 Analyzed sales data by store and product category, identifying top-performing products and underperforming categories.
 
->b>Revenue & Trend Reporting:</b>
+>b>Revenue & Trend Reporting:</b><br>
 Calculated total revenue, monthly sales trends, and seasonal performance.
 
-<b>Sales Forecasting:</b>
+<b>Sales Forecasting:</b><br>
 Implemented basic forecasting models to predict future sales and demand.
 
-<b>Store Optimization:</b>
+<b>Store Optimization:</b><br>
 Identified regional sales patterns and provided insights to optimize inventory and marketing efforts.
 
 <b>📈 Outcome:</b><br>
